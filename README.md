@@ -1,3 +1,5 @@
+<p align="center"><img src="icon.png" width="128" alt="{arch I.} icon"></p>
+
 # {arch I.}
 
 A quiet, native web browser for the Mac.
